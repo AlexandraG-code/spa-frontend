@@ -1,0 +1,25 @@
+{
+  "name": "spa-frontend",
+  "version": "1.0.0",
+  "description": "spa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandraG-code/spa-frontend.git"
+  },
+  "keywords": [
+    "spa"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexandraG-code/spa-frontend/issues"
+  },
+  "homepage": "https://github.com/AlexandraG-code/spa-frontend#readme",
+  "dependencies": {
+    "webpack": "^5.93.0"
+  }
+}
